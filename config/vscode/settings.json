@@ -70,5 +70,5 @@
     "projectManager.git.maxDepthRecursion": 1,
     "projectManager.groupList": true,
     // Live Share
-    "liveshare.guestApprovalRequired": true,
+    "liveshare.guestApprovalRequired": true
 }
