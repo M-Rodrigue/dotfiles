@@ -1,0 +1,74 @@
+{
+    // Save
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 5000,
+    // Git
+    "git.autofetch": "all",
+    // Editor
+    "editor.fontFamily": "FiraCode-Retina",
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "600",
+    "editor.fontSize": 11.5,
+    "editor.tabSize": 2,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "on",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.renderWhitespace": "none",
+    "editor.minimap.enabled": true,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.codeLensFontFamily": "FiraCode-Retina",
+    "editor.inlineSuggest.enabled": true,
+    // Graphical
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Shades of Purple",
+    "workbench.sideBar.location": "right",
+    "workbench.preferredDarkColorTheme": "Shades of Purple",
+    "workbench.preferredHighContrastColorTheme": "Shades of Purple",
+    "workbench.preferredLightColorTheme": "Shades of Purple",
+    // Terminal & Console
+    "debug.console.fontFamily": "FiraCode-Retina",
+    "debug.console.fontSize": 12,
+    "terminal.integrated.fontFamily": "FiraCode-Retina",
+    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.fontWeight": "600",
+    // Telemetry
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    // Others
+    "explorer.confirmDelete": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "breadcrumbs.enabled": true,
+    "php.validate.executablePath": "/usr/bin/php",
+    // Extensions
+    // Color Highlight
+    "color-highlight.languages": [
+        "*"
+    ],
+    "color-highlight.matchWords": true,
+    "color-highlight.matchRgbWithNoFunction": true,
+    // Project Manager
+    "projectManager.tags": [
+        "Personnel",
+        "Travail",
+        "Cours"
+    ],
+    "projectManager.git.baseFolders": [
+        "/Users/mrodrigue/Desktop/Projets"
+    ],
+    "projectManager.any.baseFolders": [
+        "/Users/mrodrigue/Desktop/Projets"
+    ],
+    "projectManager.any.ignoredFolders": [
+        "node_modules",
+        "out",
+        "typings",
+        "test",
+        ".git"
+    ],
+    "projectManager.any.maxDepthRecursion": 1,
+    "projectManager.git.maxDepthRecursion": 1,
+    "projectManager.groupList": true,
+    // Live Share
+    "liveshare.guestApprovalRequired": true,
+}
