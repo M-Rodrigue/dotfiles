@@ -6,7 +6,6 @@
     "files.trimFinalNewlines": true,
     // Git
     "git.autofetch": "all",
-    "git.enableCommitSigning": true,
     // Editor
     "editor.fontFamily": "FiraCode-Retina",
     "editor.fontLigatures": true,
@@ -81,5 +80,7 @@
     // Live Share
     "liveshare.guestApprovalRequired": true,
     "liveshare.allowGuestDebugControl": true,
-    "liveshare.allowGuestTaskControl": true
+    "liveshare.allowGuestTaskControl": true,
+    // TabNine
+    "tabnine.experimentalAutoImports": true
 }
