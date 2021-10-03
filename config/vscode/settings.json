@@ -1,9 +1,12 @@
 {
-    // Save
+    // Files
     "files.autoSave": "afterDelay",
     "files.autoSaveDelay": 5000,
+    "files.trimTrailingWhitespace": true,
+    "files.trimFinalNewlines": true,
     // Git
     "git.autofetch": "all",
+    "git.enableCommitSigning": true,
     // Editor
     "editor.fontFamily": "FiraCode-Retina",
     "editor.fontLigatures": true,
@@ -12,33 +15,39 @@
     "editor.tabSize": 2,
     "editor.suggestSelection": "first",
     "editor.tabCompletion": "on",
+    "editor.renderWhitespace": "boundary",
     "editor.formatOnSave": true,
     "editor.formatOnPaste": true,
-    "editor.renderWhitespace": "none",
     "editor.minimap.enabled": true,
     "editor.bracketPairColorization.enabled": true,
     "editor.codeLensFontFamily": "FiraCode-Retina",
     "editor.inlineSuggest.enabled": true,
-    // Graphical
+    "editor.linkedEditing": true,
+    // Workbench
     "workbench.iconTheme": "material-icon-theme",
     "workbench.colorTheme": "Shades of Purple",
     "workbench.sideBar.location": "right",
     "workbench.preferredDarkColorTheme": "Shades of Purple",
     "workbench.preferredHighContrastColorTheme": "Shades of Purple",
     "workbench.preferredLightColorTheme": "Shades of Purple",
-    // Terminal & Console
+    // Debug & Terminal
     "debug.console.fontFamily": "FiraCode-Retina",
     "debug.console.fontSize": 12,
+    "debug.allowBreakpointsEverywhere": true,
     "terminal.integrated.fontFamily": "FiraCode-Retina",
     "terminal.integrated.fontSize": 12,
     "terminal.integrated.fontWeight": "600",
     // Telemetry
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
-    // Others
+    // Diff Editor
+    "diffEditor.codeLens": true,
+    // Explorer
+    "explorer.confirmDragAndDrop": false,
     "explorer.confirmDelete": false,
-    "diffEditor.ignoreTrimWhitespace": false,
+    // Breadcrumbs
     "breadcrumbs.enabled": true,
+    // PHP
     "php.validate.executablePath": "/usr/bin/php",
     // Extensions
     // Color Highlight
@@ -70,5 +79,7 @@
     "projectManager.git.maxDepthRecursion": 1,
     "projectManager.groupList": true,
     // Live Share
-    "liveshare.guestApprovalRequired": true
+    "liveshare.guestApprovalRequired": true,
+    "liveshare.allowGuestDebugControl": true,
+    "liveshare.allowGuestTaskControl": true
 }
