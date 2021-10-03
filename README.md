@@ -1,10 +1,11 @@
-# À PROPOS
+# À propos
 Dépot qui rassemble l'ensemble de ma configuration.
-# LOGICIELS
+# Logiciels
 - Police de caractères : [Fira Code](https://github.com/tonsky/FiraCode)
-## VSCODE
-- Thèmes : [Shades of Purple](https://github.com/ahmadawais/shades-of-purple-vscode)
+## VSCode
+- Thème : [Shades of Purple](https://github.com/ahmadawais/shades-of-purple-vscode)
 - Icons : [Material Icon Theme](https://github.com/PKief/vscode-material-icon-theme)
-# SYSTÈME
+- [Extensions](config/vscode/extensions.md)
+# Système
 ## MacOS
 ## Windows
