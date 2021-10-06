@@ -7,3 +7,4 @@
 - [ritwickdey.liveserver](https://github.com/ritwickdey/vscode-live-server)
 - [editorconfig.editorconfig](https://github.com/editorconfig/editorconfig-vscode)
 - [tabnine.tabnine-vscode](https://github.com/codota/tabnine-vscode)
+- [icrawl.discord-vscode](https://github.com/iCrawl/discord-vscode)
