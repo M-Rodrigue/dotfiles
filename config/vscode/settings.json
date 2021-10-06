@@ -22,6 +22,8 @@
     "editor.codeLensFontFamily": "FiraCode-Retina",
     "editor.inlineSuggest.enabled": true,
     "editor.linkedEditing": true,
+    // HTML
+    "html.format.wrapLineLength": 0,
     // Workbench
     "workbench.iconTheme": "material-icon-theme",
     "workbench.colorTheme": "Shades of Purple",
@@ -59,7 +61,11 @@
     "projectManager.tags": [
         "Personnel",
         "Travail",
-        "Cours"
+        "Cours",
+        "DUPART",
+        "BESSON",
+        "LLASER",
+        "GUILBERT"
     ],
     "projectManager.git.baseFolders": [
         "/Users/mrodrigue/Desktop/Projets"
