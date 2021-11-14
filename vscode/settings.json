@@ -6,6 +6,7 @@
     "files.trimFinalNewlines": true,
     // Git
     "git.autofetch": "all",
+    "git.confirmSync": false,
     // Editor
     "editor.fontFamily": "FiraCode-Retina",
     "editor.fontLigatures": true,
@@ -40,6 +41,7 @@
     "terminal.integrated.fontWeight": "600",
     // Telemetry
     "telemetry.enableCrashReporter": false,
+    "telemetry.telemetryLevel": "off",
     "telemetry.enableTelemetry": false,
     // Diff Editor
     "diffEditor.codeLens": true,
@@ -51,6 +53,7 @@
     // PHP
     "php.validate.executablePath": "/usr/bin/php",
     // Extensions
+    "extensions.ignoreRecommendations": true,
     // Color Highlight
     "color-highlight.languages": [
         "*"
@@ -88,5 +91,5 @@
     "liveshare.allowGuestDebugControl": true,
     "liveshare.allowGuestTaskControl": true,
     // TabNine
-    "tabnine.experimentalAutoImports": true
+    "tabnine.experimentalAutoImports": true,
 }

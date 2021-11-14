@@ -8,3 +8,5 @@
 - [editorconfig.editorconfig](https://github.com/editorconfig/editorconfig-vscode)
 - [tabnine.tabnine-vscode](https://github.com/codota/tabnine-vscode)
 - [icrawl.discord-vscode](https://github.com/iCrawl/discord-vscode)
+- [pkief.material-icon-theme](https://github.com/PKief/vscode-material-icon-theme)
+- [ahmadawais.shades-of-purple](https://github.com/ahmadawais/shades-of-purple-vscode)
