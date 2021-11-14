@@ -40,9 +40,7 @@
     "terminal.integrated.fontSize": 12,
     "terminal.integrated.fontWeight": "600",
     // Telemetry
-    "telemetry.enableCrashReporter": false,
     "telemetry.telemetryLevel": "off",
-    "telemetry.enableTelemetry": false,
     // Diff Editor
     "diffEditor.codeLens": true,
     // Explorer
