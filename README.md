@@ -4,12 +4,12 @@ This repository help me when i formatted my material or when i use a new pc.</br
 I have some tips and tricks with my tools.
         
 ## 🛠️ System    
-- [VScode](#vscode)
+- [VSCode](#vscode)
 - [ZSH](#zsh)
 
 ---
 
-### VScode
+### VSCode
 - Theme : [Shades of Purple](https://github.com/ahmadawais/shades-of-purple-vscode)
 - Icons : [Material Icon Theme](https://github.com/PKief/vscode-material-icon-theme)
 - Font : [Fira Code](https://github.com/tonsky/FiraCode)
