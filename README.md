@@ -10,8 +10,8 @@ I have some tips and tricks with my tools.
 ## ⬇️ Install    
 ```bash
 $ git clone https://github.com/M-Rodrigue/dotfiles.git
-$ sudo chmod +x tools.sh
-$ ./tools.sh
+$ sudo chmod +x Dotfiles.sh
+$ ./Dotfiles.sh
 ```
 
 ---
